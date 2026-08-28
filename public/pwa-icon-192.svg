@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-labelledby="title desc">
+  <title id="title">Gapsi e-Commerce</title>
+  <desc id="desc">Icono azul oscuro con bolsa de compras y rayo dorado</desc>
+  <rect width="192" height="192" rx="42" fill="#07111f"/>
+  <path d="M51 73h90l-7 74H58z" fill="#10243b" stroke="#73d9ff" stroke-width="7"/>
+  <path d="M76 76V58c0-12 9-22 20-22s20 10 20 22v18" fill="none" stroke="#ffca64" stroke-width="8" stroke-linecap="round"/>
+  <path d="m104 83-22 30h18l-12 26 27-36h-18z" fill="#ffca64"/>
+</svg>
